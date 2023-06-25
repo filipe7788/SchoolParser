@@ -6,7 +6,7 @@ de similaridades entre escolas do meio urbano e rural.
 ## Como funciona
 
 1. Ao incluir arquivos .xlsx no diretório do código, é possível gerar redes
-   associando Combinação, IDEB e  Subgrupo.
+   associando Perfil, IDEB e  Subgrupo.
 2. Ao executar o código, ele varrerá o diretório em busca de arquivos .xlsx.
    Estando esses no formato requerido para a análise,
    o algoritmo irá gerar as respectivas redes na pasta de Resultados.
